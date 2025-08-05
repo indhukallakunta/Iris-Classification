@@ -23,6 +23,7 @@ A simple machine learning project that classifies Iris flowers into three specie
      jupyter notebook IRISCLASSIFICATION.ipynb
     
 📊 Dataset
+
 The Iris dataset contains 150 samples with 4 features:
   Sepal Length
   Sepal Width
@@ -30,12 +31,11 @@ The Iris dataset contains 150 samples with 4 features:
   Petal Width
 
 🎯 Project Goal
+
 Train a classification model to accurately predict the flower species from given measurements.
 
-✅ Output
-
-
 ✍️ Author
+
 Kallakunta Indhu
 
 
